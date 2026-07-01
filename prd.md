@@ -1,8 +1,8 @@
-# App Plan — LifeAdmin AI
+# App Plan — eesho
 
 ## 1. App Overview
 
-LifeAdmin AI helps people deal with hostile paperwork without losing evenings or money to buried clauses. Users upload or forward contracts, subscription terms, landlord emails, insurance documents, and university admin messages. The app extracts obligations, explains them plainly, tracks deadlines, and drafts cancellation or negotiation emails for approval. The first version should prove one thing clearly: a user can add a document and know what they need to do next.
+eesho helps people deal with hostile paperwork without losing evenings or money to buried clauses. Users upload or forward contracts, subscription terms, landlord emails, insurance documents, and university admin messages. The app extracts obligations, explains them plainly, tracks deadlines, and drafts cancellation or negotiation emails for approval. The first version should prove one thing clearly: a user can add a document and know what they need to do next.
 
 Assumption for this deliverable: the first build is a responsive web app prototype for an AI-enabled builder such as Lovable, v0, Cursor, or Bolt.
 
@@ -114,4 +114,4 @@ For any AI builder: lock the IA early. Do not let the app collapse into a generi
 - User can generate and edit a formal outbound email draft.
 - App clearly labels the draft as not sent until the user approves it.
 - User can view all deadlines in one list.
-- Banned LifeAdmin AI words do not appear in user-facing copy.
+- Banned eesho words do not appear in user-facing copy.

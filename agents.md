@@ -1,14 +1,14 @@
-# AGENTS.md — LifeAdmin AI
+# AGENTS.md — eesho
 
 ## Product Identity
 
-LifeAdmin AI is the anti-bureaucracy assistant. It reads contracts, subscriptions, insurance notes, landlord emails, university paperwork, and similar admin mess; explains the important parts in plain language; catches deadlines; and drafts cancellation or negotiation emails for the user to approve before anything is sent.
+eesho is the anti-bureaucracy assistant. It reads contracts, subscriptions, insurance notes, landlord emails, university paperwork, and similar admin mess; explains the important parts in plain language; catches deadlines; and drafts cancellation or negotiation emails for the user to approve before anything is sent.
 
 The core belief: the user is not bad at admin. The paperwork is hostile by design.
 
 ## Target User
 
-LifeAdmin AI is for time-poor people in transition: moving cities, starting a new program, signing a lease, dealing with insurance, or juggling several contracts in a system or language that is not familiar. They have lost time, money, or patience to hidden renewal windows, vague portals, and emails they kept putting off.
+eesho is for time-poor people in transition: moving cities, starting a new program, signing a lease, dealing with insurance, or juggling several contracts in a system or language that is not familiar. They have lost time, money, or patience to hidden renewal windows, vague portals, and emails they kept putting off.
 
 ## Business Outcomes
 
