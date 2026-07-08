@@ -41,6 +41,10 @@ Also avoid: "AI magic," "your personal productivity companion," "take control of
 - Every high-stakes claim should link back to evidence: page number, clause, email line, sender, or date.
 - When confidence is low, say what is missing and ask for the document, detail, or approval needed.
 
+## Development Workflow Rules
+
+- Each time new code is pushed to GitHub, spawn a subagent to run a security audit on the pushed code. The audit must look for private information, secrets, credentials, tokens, personal data, and any accidental sensitive project details before treating the push as complete.
+
 ## Copy Examples
 
 - "Your gym contract renews in 9 days. They hid the notice period on page 4. Want a cancellation draft?"

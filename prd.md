@@ -81,6 +81,11 @@ Integration tests:
 - Edit draft, approve draft, mark as sent.
 - Delete document and confirm linked findings/drafts are removed or anonymized.
 
+Security and release checks:
+
+- Each time new code is pushed to GitHub, spawn a subagent to audit the pushed code for private information, secrets, credentials, tokens, personal data, and accidental sensitive project details.
+- Treat the push as incomplete until the audit is complete and any confirmed exposure is removed or documented for immediate follow-up.
+
 User acceptance tests:
 
 - A user uploads a gym contract and sees the renewal deadline, notice period, source clause, and cancellation draft.
